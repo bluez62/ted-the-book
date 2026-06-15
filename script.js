@@ -49,7 +49,3 @@ function getEndingTitle(endingKey) {
   };
   return titles[endingKey] || "Unknown Ending";
 }
-
-document.getElementById("view-endings").addEventListener("click", () => {
-  displayEndings();
-});
