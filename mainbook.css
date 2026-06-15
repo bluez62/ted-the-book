@@ -29,8 +29,3 @@ button:active{
 .endingnewowner2{
   position: relative; left:570px; bottom:30px;
 }
-.pagenumber {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-}
