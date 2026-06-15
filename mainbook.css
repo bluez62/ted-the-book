@@ -1,0 +1,31 @@
+body {
+  background-color: #009200;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+button{
+  background-color:#84ff84;
+  border-color:#000000;
+  border: double 5px;
+}
+
+button {
+  cursor: pointer;
+}
+button:hover{
+  background-color:#00d000;
+  border: double 3px;
+}
+button:active{
+  background-color:#aaffaa;
+}
+.endingnewowner1{
+  position: relative; left:600px;
+}
+.endingnewowner2{
+  position: relative; left:570px; bottom:30px;
+}
